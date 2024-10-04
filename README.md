@@ -1,3 +1,3 @@
 # demo
-This is my first Git repositoryy
+This is my first Git repository.
 Author- Anshi Tyagi
